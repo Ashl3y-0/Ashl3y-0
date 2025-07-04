@@ -61,11 +61,11 @@ Since 2022 I've been studying on my own and combining it with my regular job.
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
   <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
   <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="illustrator logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="1" />
